@@ -4,7 +4,7 @@ Ongoing, not to be exploited. Very much unfinished as of 3/23/21
 
 ## To run:  
 
-### - Add any accounts to not unfollow in dont_unfollow txt.  
+### - Add any accounts to not unfollow in dont_unfollow_2.txt.  
 Format:  
 https://www.instagram.com/balam_says/  
 https://www.instagram.com/go_speedy_boy_go/  
